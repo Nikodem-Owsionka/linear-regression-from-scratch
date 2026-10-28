@@ -46,9 +46,11 @@ My value for the MSE is about 50% lower than the value for Scikit-learns impleme
 #### Visualisation:
 
 My custom implementation:
+
 <img width="854" height="564" alt="image" src="https://github.com/user-attachments/assets/ae775200-e5dd-48c7-8b22-97e3d53f16a8" />
 
 Scikit-learns implementation:
+
 <img width="797" height="569" alt="image" src="https://github.com/user-attachments/assets/66c9c8fe-07a4-4938-876a-a9a65eb10648" />
 
 
