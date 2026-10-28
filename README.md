@@ -31,6 +31,7 @@ This project explores the mathematical foundations of linear regression by imple
 - Pandas
 - NumPy
 - Matplotlib
+- Scikit-learn
 
 ## Results and evaluation:
 
