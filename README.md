@@ -4,6 +4,8 @@
 
 This project explores the mathematical foundations of linear regression by implementing the algorithm from scratch in Python and comparing the results with scikit-learn's implementation.
 
+I will be using the 'SalaryData.csv' from Kaggle and applying a linear regression model so that you can predict the Salary of a person based on how many years of experience they have.
+
 ## Objectives:
 
 - Understand the mathematical principles underlying linear regression
