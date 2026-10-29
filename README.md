@@ -39,7 +39,7 @@ found in 'Linear regression Maths.pdf'
 - Matplotlib
 - Scikit-learn
 
-## Results and evaluation:
+## Results and findings:
 
 #### Mean Square Error:
 
