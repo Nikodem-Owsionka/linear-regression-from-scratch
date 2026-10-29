@@ -26,6 +26,10 @@ This project explores the mathematical foundations of linear regression by imple
 - repeatedly update _m_ and _c_ in small increments for a certain number of iterations to reduce the mean square error and converge to the minimum value
 - this is done using a formula that includes the partial derivatives of the mean square error and a fixed value for the learning rate to control the step size
 
+#### Mathematical formulas:
+
+found in 'Linear regression Maths.pdf'
+
 ## Libraries needed:
 
 - Pandas
