@@ -62,7 +62,7 @@ iterations = 20000
 m_final , c_final = GradientDescent(x_train , y_train , learning_rate , iterations)
 
 print(f"m: {m_final} , c: {c_final}")
-print(f"Mean square error: {MeanSquareError(x_train , y_train , m_final , c_final)}")
+print(f"Mean square error: {2 * MeanSquareError(x_train , y_train , m_final , c_final)}")
 
 #-----------------------------------------------------------------------------------------------
 
