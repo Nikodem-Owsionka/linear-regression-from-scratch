@@ -45,10 +45,10 @@ found in 'Linear regression Maths.pdf'
 
 I evaluated the performance of the two implementations using the mean squared error (MSE) which measures the average squared difference between actual and predicted values
 
-- My custom implementation (gradient descent): 15,648,488
+- My custom implementation (gradient descent): 31,296,977
 - Scikit-learns implementation: 31,270,951
 
-My value for the MSE is about 50% lower than the value for Scikit-learns implementation, suggesting that gradient descent performed better here and provided more optimised paramaters
+As you see My value for the MSE is very close to the value that the scikit-learn's implementation produced. This demonstrates that my gradient descent algorithm successfully converged towards the optimal parameters and closely reproduced the results of Scikit-learn's LinearRegression model.
 
 #### Visualisation:
 
